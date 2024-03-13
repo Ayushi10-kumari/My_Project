@@ -1,1 +1,1 @@
-This is a mini project of E-Commerce Website related to selling Folower using HTML and CSS.
+This is a mini project of E-Commerce Website related to selling Flowers using HTML and CSS.
